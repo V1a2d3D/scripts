@@ -6,5 +6,5 @@
 
 # Запуск
 Для построения графика введите следующую команду в терминале:
-.\scripts\matplotlib\simple_graph.py
+python simple_graph.py
 

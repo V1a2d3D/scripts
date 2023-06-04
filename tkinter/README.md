@@ -7,6 +7,6 @@
 
 
 # Запуск
-Введите в терминале команду "python .\scripts\tkinter\..." дописав, интересующую вас программу.
+Введите в терминале имя программы, которая вас интересует, после команды "python".
 Например:
- python .\scripts\tkinter\flying_circles.py
+ python flying_circles.py

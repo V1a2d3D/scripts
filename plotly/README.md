@@ -7,7 +7,7 @@
 
  # Запуск
 Для моделирования графика введите в терминале следующую команду:
-python .\scripts\plotly\roll_dices.py
+python roll_dices.py
 
 
 
